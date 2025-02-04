@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ow_mod_simulator/static/css/main.59249ed3.css",
+    "main.js": "/ow_mod_simulator/static/js/main.a2ad3a37.js",
+    "index.html": "/ow_mod_simulator/index.html",
+    "main.59249ed3.css.map": "/ow_mod_simulator/static/css/main.59249ed3.css.map",
+    "main.a2ad3a37.js.map": "/ow_mod_simulator/static/js/main.a2ad3a37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59249ed3.css",
+    "static/js/main.a2ad3a37.js"
+  ]
+}
